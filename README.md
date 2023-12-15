@@ -13,3 +13,14 @@ Funcionalidades Principales:
 4- Interfaz Gráfica Intuitiva: Ofrece una interfaz de usuario amigable que facilita la interacción con la aplicación, permitiendo a los usuarios revisar fácilmente los resultados de la comparación.
 
 5- Exportación de Resultados: Proporciona la capacidad de exportar el resumen de la comparación en diferentes formatos, como CSV o Excel, para facilitar su revisión y análisis posteriores.
+
+
+💡 Destacados del proyecto:
+
+🛠️ Tecnologías Utilizadas: Java fue el núcleo de este proyecto, aprovechando su potencial para la programación concurrente. Además, utilicé bibliotecas como Apache Poi para poder procesar los archivos, SQLite para la base de datos con JDBC API .
+
+📌 Concurrencia Eficiente: Aprovechando al máximo la capacidad de procesamiento de hardware moderno. La implementación cuidadosa de hilos y mecanismos de sincronización permitió un procesamiento simultáneo y sin problemas.
+
+⚙️ Gestión de Recursos: Implementé un mecanismo de gestión de recursos que garantiza la asignación adecuada de recursos y la prevención de bloqueos en situaciones de alta demanda.
+
+Este proyecto no solo amplió mis habilidades en programación en Java y concurrencia, sino que también me permitió profundizar en el diseño de sistemas robustos y de alto rendimiento. 😀
