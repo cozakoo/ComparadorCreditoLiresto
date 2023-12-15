@@ -24,8 +24,6 @@ hs_err_pid*
 replay_pid*
 
 target/
-db/*
-/nbproject/
-/validadorExcelCsv/
-validadorExcelCsv/
+Estructura_Proyecto_Jar/
 
+/nbproject/
